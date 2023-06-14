@@ -1,1 +1,9 @@
 # LoadPlugin-Unturned
+
+Command: 
+lprd load <namePlugins> - this command loads the assembly into the rocket mod
+lprd unload <namePlugins> - this is the team that ships the assembly to the rocket mod
+
+# Directory Plugins
+
+The path to plugins is changed in Plugin.cs (public string _directory = @"C:\Plugins ";)
