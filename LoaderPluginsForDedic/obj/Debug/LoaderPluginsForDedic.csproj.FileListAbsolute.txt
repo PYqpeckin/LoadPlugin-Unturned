@@ -25,3 +25,11 @@ C:\Users\maleo\Desktop\Plugins\LoaderPluginsForDedic\LoaderPluginsForDedic\obj\D
 C:\Users\maleo\Desktop\Plugins\LoaderPluginsForDedic\LoaderPluginsForDedic\obj\Debug\LoaderPluginsForDedic.csproj.CopyComplete
 C:\Users\maleo\Desktop\Plugins\LoaderPluginsForDedic\LoaderPluginsForDedic\obj\Debug\LoaderPluginsForDedic.dll
 C:\Users\maleo\Desktop\Plugins\LoaderPluginsForDedic\LoaderPluginsForDedic\obj\Debug\LoaderPluginsForDedic.pdb
+C:\Users\maleo\Documents\GitHub\LoadPlugin-Unturned\LoaderPluginsForDedic\bin\Debug\LoaderPluginsForDedic.dll.config
+C:\Users\maleo\Documents\GitHub\LoadPlugin-Unturned\LoaderPluginsForDedic\bin\Debug\LoaderPluginsForDedic.dll
+C:\Users\maleo\Documents\GitHub\LoadPlugin-Unturned\LoaderPluginsForDedic\bin\Debug\LoaderPluginsForDedic.pdb
+C:\Users\maleo\Documents\GitHub\LoadPlugin-Unturned\LoaderPluginsForDedic\obj\Debug\LoaderPluginsForDedic.csproj.AssemblyReference.cache
+C:\Users\maleo\Documents\GitHub\LoadPlugin-Unturned\LoaderPluginsForDedic\obj\Debug\LoaderPluginsForDedic.csproj.CoreCompileInputs.cache
+C:\Users\maleo\Documents\GitHub\LoadPlugin-Unturned\LoaderPluginsForDedic\obj\Debug\LoaderPluginsForDedic.csproj.CopyComplete
+C:\Users\maleo\Documents\GitHub\LoadPlugin-Unturned\LoaderPluginsForDedic\obj\Debug\LoaderPluginsForDedic.dll
+C:\Users\maleo\Documents\GitHub\LoadPlugin-Unturned\LoaderPluginsForDedic\obj\Debug\LoaderPluginsForDedic.pdb

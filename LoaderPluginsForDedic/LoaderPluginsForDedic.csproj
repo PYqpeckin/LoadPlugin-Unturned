@@ -103,9 +103,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Command\lprd.cs" />
     <Compile Include="Config.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Types\Assem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
