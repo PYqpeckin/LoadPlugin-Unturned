@@ -33,7 +33,7 @@ namespace LoaderPluginsForDedic.Command
 
             if (command.Length < 1)
             {
-                UnturnedChat.Say(caller, "lprd <load/unload/unloadall/list> <*name>");
+                UnturnedChat.Say(caller, "lprd <load/unload/list> <*name>");
                 return;
             }
 
@@ -73,7 +73,7 @@ namespace LoaderPluginsForDedic.Command
             }
             else
             {
-                UnturnedChat.Say(caller, "lprd <load/unload/unloadall/list> <*name>");
+                UnturnedChat.Say(caller, "lprd <load/unload/list> <*name>");
                 return;
             }
         }
